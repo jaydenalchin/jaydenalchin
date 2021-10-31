@@ -5,8 +5,6 @@
 
 ### <div align="center"></div>  
 
-<br/>  
-
 
 ## My Skill Set  
 
