@@ -1,12 +1,12 @@
 <div align="center">
-<img src="jaydenalchinbanner.png" align="center" style="width: 100%" />
+<img src="jd-banner.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Jayden, a full-time Web Designer at SSW ✍️</div>  
+### <div align="center"></div>  
   
 
-<div align="center">A detail-oriented creative thinker who loves spending his time on digital art and creative writing between projects.</div>
+<div align="center">Hi I'm Jayden 👋 , a detail-oriented creative thinker who spends his time on digital art and creative writing between projects.</div>
 
 
 <br/>  
