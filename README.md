@@ -4,10 +4,6 @@
   
 
 ### <div align="center"></div>  
-  
-
-<div align="center">Hi I'm Jayden 👋 , a detail-oriented creative thinker who spends his time on digital art and creative writing between projects.</div>
-
 
 <br/>  
 
