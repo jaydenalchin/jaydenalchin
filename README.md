@@ -1,5 +1,5 @@
 <div align="center">
-<img src="jd-banner.png" align="center" style="width: 100%" />
+<img src="jdbannerteal.png" align="center" style="width: 100%" />
 </div>  
   
 
