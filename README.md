@@ -6,7 +6,7 @@ I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW Web D
 
 <p>&nbsp;</p>
 
-## My Skills & Stats 🪄: 
+## My Skills & Stats ✨: 
 
 <div align="center"><a href="https://github.com/jaydenalchin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jaydenalchin&show_icons=true&hide_border=true&text_color=378d8d&border_radius=5&title_color=16C9B7&icon_color=16C9B7&bg_color=00000000" width="90%"/></a></div>  
 
