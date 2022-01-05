@@ -8,8 +8,6 @@ I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW Web D
 
 ## My Skills & Stats ✨: 
 
-<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jaydenalchin&show_icons=true&hide_border=true&text_color=378d8d&border_radius=5&title_color=16C9B7&icon_color=16C9B7&bg_color=00000000" width="90%"/></a></div>  
-
 <p align="center">
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -23,4 +21,6 @@ I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW Web D
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 </p>
 
-<br/>
+<br>
+
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jaydenalchin&show_icons=true&hide_border=true&text_color=378d8d&border_radius=5&title_color=16C9B7&icon_color=16C9B7&bg_color=00000000" width="90%"/></a></div>
