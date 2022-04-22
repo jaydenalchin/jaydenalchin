@@ -2,7 +2,7 @@
 
 <img src="JD-banner-graphic.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW UI/UX Designer 🌟, </a>  with a deep passion for my work - I love learning how people make sense of the world. As a designer I have experience designing and developing across web and mobile platforms on a variety of projects making full use of my skills in rapid prototyping, user-oriented design & usability testing, visual design, HTML, CSS and JavaScript. I'm a detail-oriented creative thinker who loves spending his time on digital art and creative writing between projects.
+I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW UI/UX Designer 🌟 </a>  with a deep passion for my work - I love learning how people make sense of the world. As a designer I have experience designing and developing across web and mobile platforms on a variety of projects making full use of my skills in rapid prototyping, user-oriented design & usability testing, visual design, HTML, CSS and JavaScript. I'm a detail-oriented creative thinker who loves spending his time on digital art and creative writing between projects.
 
 <p>&nbsp;</p>
 
