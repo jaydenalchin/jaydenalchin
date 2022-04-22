@@ -6,7 +6,7 @@ I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW Web D
 
 <p>&nbsp;</p>
 
-## My Skills & Stats ✨: 
+## My Skills & Stats ✨ 
 
 <p align="center">
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
