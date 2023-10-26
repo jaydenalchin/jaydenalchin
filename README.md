@@ -11,7 +11,7 @@ I'm an energetic <a href="https://www.ssw.com.au/people/jayden-alchin">SSW UI/UX
 <p align="center">
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 12px" src="https://www.ssw.com.au/people/static/2dd85df3b26e1f4b45c0808579e9d787/d76be/Designer-web-ux.png" alt="UX" height="50" /> 
+  <img style="margin: 12px" src="https://raw.githubusercontent.com/SSWConsulting/SSW.People.Profiles/main/badges/Designer-web-ux.png" alt="UX" height="50" /> 
   <img style="margin: 12px" src="https://raw.githubusercontent.com/SSWConsulting/SSW.People.Profiles/main/badges/Designer-figma.png" alt="Figma" height="50" /> 
   <img style="margin: 12px" src="https://www.ssw.com.au/people/static/86bf2896a7dd1d6d7528176ff2025689/d76be/Designer-sketch.png" alt="Sketch" height="50" />  
   <img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
